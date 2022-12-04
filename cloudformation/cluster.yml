@@ -1,5 +1,5 @@
 Description: >
-  MinhNHC's Capstone Project
+  Thinh's Capstone Project
   Creates an Amazon EKS Cluster
 Parameters:
   EnvironmentName:
